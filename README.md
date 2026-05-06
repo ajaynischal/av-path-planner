@@ -45,9 +45,9 @@ cmake -B build && cmake --build build
 Scenario: Open Field
 Heuristic    | Nodes Explored | Path Length
 -------------|----------------|------------
-Manhattan    |             87 |       26.24
-Euclidean    |             54 |       26.24
-Diagonal     |             41 |       26.24
+Manhattan    |             22 |       27.45
+Euclidean    |             36 |       27.45
+Diagonal     |            158 |       27.45
 ```
 
 ## Design decisions
